@@ -1,0 +1,15 @@
+{
+    "title": "Test Project",
+    "baseURL": "https:\/\/tvpage.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "tvpage.com"
+    }
+}
