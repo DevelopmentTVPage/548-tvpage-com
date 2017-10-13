@@ -1,0 +1,99 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "108616588",
+            "title": "RDS-37 Soviet hydrogen bomb test (1955)",
+            "date_created": "1440586641",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "Purchase of footages and offers, contact us - atomicarchive@yandex.ru RDS-37 was the Soviet Union's first two-stage hydrogen bomb, first tested on November ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EHRLEMTsLyA\/hqdefault.jpg",
+                "uploadDate": 1440586641,
+                "videoId": "EHRLEMTsLyA",
+                "title": "RDS-37 Soviet hydrogen bomb test (1955)",
+                "description": "Purchase of footages and offers, contact us - atomicarchive@yandex.ru RDS-37 was the Soviet Union's first two-stage hydrogen bomb, first tested on November ...",
+                "author": "atomicarchive",
+                "mediaDuration": 150,
+                "prettyDuration": "00:02:30",
+                "views": "5080423"
+            },
+            "parentId": "101567212",
+            "url": "\/asdf\/rds-37-soviet-hydrogen-bomb-test-1955\/101567212-108616588"
+        },
+        {
+            "id": "7645134",
+            "title": "SampleVideo_1080x720_1mb.mp4",
+            "date_created": "1447719723",
+            "loginId": "1758403",
+            "tags": "sfgh",
+            "description": "sgh",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "5",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "5",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/thumb-6b4c07662f90bdce7191db6bba9e45d9-00001.png",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/dash.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/hls.m3u8",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/720p_12276_SampleVideo_1080x720_1mb.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/480p_12276_SampleVideo_1080x720_1mb.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/360p_12276_SampleVideo_1080x720_1mb.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/240p_12276_SampleVideo_1080x720_1mb.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/7645134\/144p_12276_SampleVideo_1080x720_1mb.mp4",
+                        "quality": "144p",
+                        "mime": "video\/mp4",
+                        "width": 256,
+                        "height": 144
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758403\/7645134\/cc\/vtt\/en_1502743815.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "101567212",
+            "url": "\/asdf\/samplevideo-1080x720-1mb-mp4\/101567212-7645134"
+        }
+    ]
+}
